@@ -1,6 +1,6 @@
 ## About Me
 
-- I'm a Software Engineer with fundamentals in finances and economics.
+- I am a software engineer with a background in privacy, finance and economics.
 - I have a degree in computer science, but honestly, it's more important what I have learned by myself.
 
 ## 🛠 Skills
