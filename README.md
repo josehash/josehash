@@ -1,7 +1,7 @@
 ## About Me
 
-- I am a software engineer with a background in privacy, finance and economics.
-- I have a degree in computer science, but honestly, it's more important what I have learned by myself.
+- I'm a software engineer with a solid background in privacy, finance and economics.
+- I have a degree in computer science, but honestly, it's more important what I've learned by myself.
 
 ## 🛠 Skills
 
